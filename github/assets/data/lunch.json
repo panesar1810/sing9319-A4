@@ -1,0 +1,19 @@
+{
+	"lunch": [
+		{
+			"name": "White Pasta",
+			"price": 4.5,
+			"calories": 800
+		},
+		{
+			"name": "Dosa with Sambar",
+			"price": 6.0,
+			"calories": 1000
+		},
+		{
+			"name": "Chicken Kebab",
+			"price": 10.0,
+			"calories": 1200
+		}
+	]
+}

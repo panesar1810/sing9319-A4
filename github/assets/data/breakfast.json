@@ -1,0 +1,19 @@
+{
+	"breakfast": [
+		{
+			"name": "Eggs & bacon",
+			"price": 5.5,
+			"calories": 760
+		},
+		{
+			"name": "Idli & coconut sauce",
+			"price": 3.5,
+			"calories": 500
+		},
+		{
+			"name": "Garlic naan & chickpeas",
+			"price": 7.0,
+			"calories": 1100
+		}
+	]
+}
